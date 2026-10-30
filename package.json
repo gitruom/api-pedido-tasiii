@@ -1,0 +1,28 @@
+{
+  "name": "api-tasiii-pedidos",
+  "version": "1.0.0",
+  "description": "\"# api-pedido-tasiii\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitruom/api-pedido-tasiii.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gitruom/api-pedido-tasiii/issues"
+  },
+  "homepage": "https://github.com/gitruom/api-pedido-tasiii#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
